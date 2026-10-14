@@ -20,11 +20,11 @@ para Discord** usando APIs.
 Portfólio pessoal com meus trabalhos e serviços de desenvolvimento.
 Desenvolvido com **HTML, Tailwind CSS e JavaScript**.
 
-### [BOTBetinha](https://github.com/RyuuZK/NOME-DO-REPO)
+### [BOTBetinha](https://github.com/RyuuZK/BOTBetinha)
 Bot de Discord desenvolvido 100% por mim para o meu servidor pessoal.
 
 > Meus trabalhos em Roblox são projetos de clientes, então a
-> maior parte não é pública. Veja exemplos no [portfólio](https://ryuuzk.github.io/site/#home).
+> maior parte não é pública. Veja exemplos no [portfólio](https://ryuuzk.github.io/MyPortfolio/#home).
 
 ## Conhecimentos
 
@@ -36,4 +36,4 @@ Bot de Discord desenvolvido 100% por mim para o meu servidor pessoal.
 
 ## Contato
 
-[E-mail](mailto:gianluca25102003@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gianluca-padilha-9194b328b) · [Portfólio](https://ryuuzk.github.io/site/#home)
+[E-mail](mailto:gianluca25102003@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gianluca-padilha-9194b328b) · [Portfólio](https://ryuuzk.github.io/MyPortfolio/#home)
